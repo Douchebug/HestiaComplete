@@ -73,7 +73,7 @@ Related commands:
     PS C:\Users\10068\Downloads\Compressed\logstash-7.3.1\bin> ./logstash -f mysql/jdbc.conf
 
 
-##Kibana dev tools:
+## Kibana dev tools:
 
         delete /test 
     
