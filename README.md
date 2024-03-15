@@ -602,7 +602,11 @@ Related commands:
 
 ## Future work:
 Find synonyms, fill them in the synonyms.txt
+
 Generate training data.
+
 Come up with the category name(better be 8 categories)
+
 Find synonyms for categories, fill them in the program.
+
 Generate training data.
