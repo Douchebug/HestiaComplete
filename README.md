@@ -57,7 +57,7 @@ Currently I've connected our project to googlemap api so it may ask your locatio
 
 
 
-#NEW THINGS:
+# NEW THINGS:
 
 Be sure to download elasticsearch.zip.
 
@@ -589,9 +589,9 @@ Related commands:
         
     }
 
-#Remember to change configuration/path in Hestia project to make it compatible with your pc!!!
+# Remember to change configuration/path in Hestia project to make it compatible with your pc!!!
 
-#New table in mysql
+# New table in mysql
 
     CREATE TABLE `hestiadb`.`Untitled`  (
       `id` int(11) NOT NULL,
@@ -600,7 +600,7 @@ Related commands:
     ); 
 
 
-##Future work:
+## Future work:
 Find synonyms, fill them in the synonyms.txt
 Generate training data.
 Come up with the category name(better be 8 categories)
